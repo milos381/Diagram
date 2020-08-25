@@ -1,23 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2020-08-24T17:11:03.472Z" agent="5.0 (Windows)" etag="8boMWTi9__3Kk7EZxs7M" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-25T17:43:26.410Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="gDMoImAtHSQbK5A3JE2f" version="13.6.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1865" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1865" dy="585" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-0" value="User wants &#39;rates&#39;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-0" value="User wants &#39;rates&#39;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry x="-0.0769" y="15" relative="1" as="geometry">
             <mxPoint x="410" y="65" as="targetPoint" />
             <mxPoint x="280" y="65" as="sourcePoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="230" as="targetPoint" />
             <mxPoint x="220" y="120" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="65" as="targetPoint" />
             <mxPoint x="160" y="65" as="sourcePoint" />
@@ -26,79 +26,62 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="CLI welcomes the user and asks if the user wants to see the rates or to do the transaction." style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="10" width="120" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-2" value="User wants the transaction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-2" value="User wants the transaction" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="60" y="170" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-3">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="474" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-3">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="630" y="65" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-3" value="CLI asks the user for currency codes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-3" value="CLI asks the user for currency codes" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="35" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-6" value="if invalid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="40" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-7" value="if valid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-7" value="if valid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="120" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-8" value="An error is raised" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="630" y="35" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-9" target="z4YC4TpHtfHBbiFPjknS-12">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-9" target="z4YC4TpHtfHBbiFPjknS-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-9">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="290" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-9" value="CLI asking would User want to proceed" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-9" value="CLI asking would User want to proceed" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-10" target="z4YC4TpHtfHBbiFPjknS-9">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-10" target="z4YC4TpHtfHBbiFPjknS-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-10" value="&lt;div&gt;CLI prints the rates&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-10" value="&lt;div&gt;CLI prints the rates&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-12" value="CLI exits the program" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-12" value="CLI exits the program" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="420" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-14" value="if no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-14" value="if no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="480" y="380" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-16" value="if yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-16" value="if yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="340" y="290" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-18" value="&lt;div&gt;&quot;Command not found&quot;&lt;/div&gt;&lt;div&gt;CLI exits&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-18" value="&lt;div&gt;&quot;Command not found&quot;&lt;/div&gt;&lt;div&gt;CLI exits&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-40" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-19" value="anything else" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-19" value="anything else" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="80" y="40" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-20" target="z4YC4TpHtfHBbiFPjknS-8">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-20" target="z4YC4TpHtfHBbiFPjknS-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="z4YC4TpHtfHBbiFPjknS-20" target="z4YC4TpHtfHBbiFPjknS-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-20" value="CLI asks the user for currency codes and the amount of money user wants to exchange" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-20" value="CLI asks the user for currency codes and the amount of money user wants to exchange" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="150" y="230" width="140" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-22" value="if invalid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="570" y="140" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-23" value="&lt;div&gt;CLI calculates the prints the amount&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-23" value="&lt;div&gt;CLI calculates the prints the amount&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="160" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z4YC4TpHtfHBbiFPjknS-25" value="if valid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="z4YC4TpHtfHBbiFPjknS-25" value="if valid" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="170" y="440" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
